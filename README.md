@@ -4,8 +4,8 @@
 Installer et préparer des postes de travail pour usage administratif.
 
 ## Réalisations
-- Installation de Windows/Linux
-- Paramétrage des logiciels métier
+- Installation de Windows
+- Paramétrage des logiciels métier(Microsoft office, Kaspersky)
 - Connexion au réseau local
 
 ## Technologies
